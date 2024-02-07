@@ -1,6 +1,6 @@
 
 ---
-### Description
+### Description 🦾
 - Simplified BCI system for Motor Imagery
 - Simulates Data Acquisition from Pre-recorded Data
 - Showcases Signal Processing with Machine Learning and Classification
