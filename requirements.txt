@@ -1,0 +1,6 @@
+numpy
+matplotlib
+mne
+scikit-learn
+pylsl
+argparse
