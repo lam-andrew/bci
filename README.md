@@ -5,7 +5,7 @@
 - Simulates Data Acquisition from Pre-recorded Data
 - Showcases Signal Processing with Machine Learning and Classification
 ---
-### Setup to clone this repo
+### Setup to clone this repo 💻
 1. Clone this github repo
 2. Create a virtual python environment `python -m venv venv`
 a. pip install: `pip install -r requirements.txt`
